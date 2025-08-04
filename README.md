@@ -35,6 +35,9 @@ It required working through multiple stages:
 
 The goal was to build practical skills in threat detection, communication, incident response, and technical mitigation.
 
+
+[Firewall Log file](Firewall_log.xlsx)
+
 ---
 
 ## Task 1
