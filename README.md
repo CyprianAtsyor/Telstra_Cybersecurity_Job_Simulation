@@ -247,5 +247,5 @@ Make sure to include when the incident started and the root cause. Remember, the
 
 Estimated time for task completion: 30 minutes depending on your learning style.
 ---------------------
-[Download the Incident Postmortem Word Document](path/Task 4.docx)
+[Download the Incident Postmortem Word Document](Task-4.docx)
 
